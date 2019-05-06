@@ -1,0 +1,22 @@
+{
+  "name": "fortnite-stats-discord-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikifar2012/Fortnite-Stats-Discord-Bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ikifar2012/Fortnite-Stats-Discord-Bot/issues"
+  },
+  "homepage": "https://github.com/ikifar2012/Fortnite-Stats-Discord-Bot#readme",
+  "devDependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
